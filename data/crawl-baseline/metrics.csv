@@ -1,0 +1,42 @@
+url,cluster,in_degree,out_degree,click_depth,pagerank,is_orphan,is_dead_end
+http://localhost/codesphere,Homepage,40,32,0,0.042718,False,False
+http://localhost/codesphere/about,General,40,18,1,0.041875,False,False
+http://localhost/codesphere/arrays,General,7,20,1,0.010475,False,False
+http://localhost/codesphere/backend-fundamentals,General,40,21,1,0.042147,False,False
+http://localhost/codesphere/binary-search-trees,General,7,20,1,0.011989,False,False
+http://localhost/codesphere/binary-tree-vs-binary-search-tree,General,40,20,1,0.042065,False,False
+http://localhost/codesphere/binary-trees,General,40,21,1,0.042147,False,False
+http://localhost/codesphere/category/blog,Roadmaps & Guides,40,18,1,0.041875,False,False
+http://localhost/codesphere/category/computer-science,Core CS,6,21,2,0.011687,False,False
+http://localhost/codesphere/category/dsa,DSA,40,27,1,0.042514,False,False
+http://localhost/codesphere/category/dsa/page/2,DSA,1,20,2,0.004997,False,False
+http://localhost/codesphere/category/programming,Programming,40,21,1,0.042147,False,False
+http://localhost/codesphere/category/uncategorized,General,1,20,3,0.00389,False,False
+http://localhost/codesphere/category/web-development,Web Development,6,22,2,0.00964,False,False
+http://localhost/codesphere/computer-networks,General,40,20,1,0.042065,False,False
+http://localhost/codesphere/computer-science,Core CS,40,21,1,0.042147,False,False
+http://localhost/codesphere/control-flow,General,5,21,1,0.008911,False,False
+http://localhost/codesphere/css,General,5,22,1,0.007369,False,False
+http://localhost/codesphere/data-structures,General,40,23,1,0.04229,False,False
+http://localhost/codesphere/databases,General,40,21,1,0.042147,False,False
+http://localhost/codesphere/dsa-roadmap-for-placements,DSA,40,23,1,0.04229,False,False
+http://localhost/codesphere/dynamic-programming,General,5,21,1,0.009716,False,False
+http://localhost/codesphere/functions,General,5,20,1,0.010279,False,False
+http://localhost/codesphere/graph-algorithms,General,5,20,2,0.008866,False,False
+http://localhost/codesphere/hello-world,General,2,20,2,0.005455,False,False
+http://localhost/codesphere/html,General,4,21,1,0.007013,False,False
+http://localhost/codesphere/javascript,General,5,21,1,0.008801,False,False
+http://localhost/codesphere/linked-lists,General,7,21,1,0.011878,False,False
+http://localhost/codesphere/nosql,General,7,21,1,0.012613,False,False
+http://localhost/codesphere/object-oriented-programming,General,40,20,1,0.042065,False,False
+http://localhost/codesphere/operating-systems,General,40,19,1,0.041975,False,False
+http://localhost/codesphere/programming-fundamentals,Programming,40,22,1,0.042222,False,False
+http://localhost/codesphere/recursion,General,40,20,1,0.042065,False,False
+http://localhost/codesphere/rest-apis,General,40,20,1,0.042065,False,False
+http://localhost/codesphere/searching-sorting,General,3,21,2,0.005767,False,False
+http://localhost/codesphere/sql,General,6,21,1,0.010895,False,False
+http://localhost/codesphere/stacks-and-queues,General,6,22,1,0.010029,False,False
+http://localhost/codesphere/tree-traversal,General,8,21,1,0.012601,False,False
+http://localhost/codesphere/trees,General,4,22,2,0.007527,False,False
+http://localhost/codesphere/variables-data-types,General,4,21,1,0.008491,False,False
+http://localhost/codesphere/web-development,Web Development,40,23,1,0.04229,False,False

@@ -1,0 +1,51 @@
+source,target,anchor_text,link_type
+http://localhost/codesphere,http://localhost/codesphere/programming/programming-fundamentals,Programming Fundamentals,sitewide
+http://localhost/codesphere,http://localhost/codesphere/dsa/data-structures,Data Structures,sitewide
+http://localhost/codesphere,http://localhost/codesphere/web-development,Web Development,sitewide
+http://localhost/codesphere,http://localhost/codesphere/computer-science,Core Computer Science,sitewide
+http://localhost/codesphere,http://localhost/codesphere/about,About CodeSphere,sitewide
+http://localhost/codesphere/programming/programming-fundamentals,http://localhost/codesphere/programming/variables-data-types,Variables and Data Types,contextual
+http://localhost/codesphere/programming/variables-data-types,http://localhost/codesphere/programming/control-flow,Control Flow,contextual
+http://localhost/codesphere/programming/control-flow,http://localhost/codesphere/programming/functions,Functions,contextual
+http://localhost/codesphere/programming/functions,http://localhost/codesphere/programming/object-oriented-programming,Object-Oriented Programming,contextual
+http://localhost/codesphere/dsa/data-structures,http://localhost/codesphere/dsa/arrays,Arrays,contextual
+http://localhost/codesphere/dsa/arrays,http://localhost/codesphere/dsa/linked-lists,Linked Lists,contextual
+http://localhost/codesphere/dsa/linked-lists,http://localhost/codesphere/dsa/stacks-and-queues,Stacks and Queues,contextual
+http://localhost/codesphere/dsa/data-structures,http://localhost/codesphere/dsa/trees,Trees Hub,contextual
+http://localhost/codesphere/dsa/trees,http://localhost/codesphere/dsa/trees/binary-trees,Binary Trees,contextual
+http://localhost/codesphere/dsa/trees,http://localhost/codesphere/dsa/trees/binary-search-trees,Binary Search Trees,contextual
+http://localhost/codesphere/dsa/trees,http://localhost/codesphere/dsa/trees/tree-traversal,Tree Traversal,contextual
+http://localhost/codesphere/dsa/data-structures,http://localhost/codesphere/dsa/algorithms/searching-sorting,Searching and Sorting,contextual
+http://localhost/codesphere/dsa/data-structures,http://localhost/codesphere/dsa/algorithms/graph-algorithms,Graph Algorithms,contextual
+http://localhost/codesphere/web-development,http://localhost/codesphere/web-development/html,HTML,contextual
+http://localhost/codesphere/web-development/html,http://localhost/codesphere/web-development/css,CSS,contextual
+http://localhost/codesphere/web-development/css,http://localhost/codesphere/web-development/javascript,JavaScript,contextual
+http://localhost/codesphere/web-development,http://localhost/codesphere/web-development/backend-fundamentals,Backend Fundamentals,contextual
+http://localhost/codesphere/computer-science,http://localhost/codesphere/computer-science/databases,Databases Hub,contextual
+http://localhost/codesphere/computer-science,http://localhost/codesphere/computer-science/computer-networks,Computer Networks,contextual
+http://localhost/codesphere/computer-science,http://localhost/codesphere/computer-science/operating-systems,Operating Systems,contextual
+http://localhost/codesphere/dsa/arrays,http://localhost/codesphere,Home,sitewide
+http://localhost/codesphere/dsa/linked-lists,http://localhost/codesphere,Home,sitewide
+http://localhost/codesphere/web-development/html,http://localhost/codesphere,Home,sitewide
+http://localhost/codesphere/computer-science/operating-systems,http://localhost/codesphere,Home,sitewide
+http://localhost/codesphere/dsa/algorithms/recursion,http://localhost/codesphere/dsa/algorithms/dynamic-programming,Dynamic Programming for Beginners,contextual
+http://localhost/codesphere/dsa/algorithms/dynamic-programming,http://localhost/codesphere/dsa/algorithms/recursion,Recursion Explained,contextual
+http://localhost/codesphere/dsa/trees/binary-trees,http://localhost/codesphere/dsa/trees/tree-traversal,Tree Traversal Algorithms,contextual
+http://localhost/codesphere/dsa/trees/tree-traversal,http://localhost/codesphere/dsa/trees/binary-trees,Binary Trees,contextual
+http://localhost/codesphere/dsa/trees/binary-trees,http://localhost/codesphere/dsa/trees/binary-search-trees,Binary Search Trees,contextual
+http://localhost/codesphere/dsa/trees/binary-search-trees,http://localhost/codesphere/blog/binary-tree-vs-binary-search-tree,Binary Tree vs Binary Search Tree Guide,contextual
+http://localhost/codesphere/blog/binary-tree-vs-binary-search-tree,http://localhost/codesphere/dsa/trees/binary-trees,Binary Trees,contextual
+http://localhost/codesphere/blog/binary-tree-vs-binary-search-tree,http://localhost/codesphere/dsa/trees/binary-search-trees,Binary Search Trees,contextual
+http://localhost/codesphere/programming/functions,http://localhost/codesphere/dsa/algorithms/recursion,Recursion Explained with Examples,contextual
+http://localhost/codesphere/programming/object-oriented-programming,http://localhost/codesphere/dsa/linked-lists,Linked Lists,contextual
+http://localhost/codesphere/web-development/rest-apis,http://localhost/codesphere/computer-science/computer-networks,Computer Networks Basics,contextual
+http://localhost/codesphere/web-development/rest-apis,http://localhost/codesphere/computer-science/databases,Databases Hub,contextual
+http://localhost/codesphere/computer-science/databases,http://localhost/codesphere/computer-science/sql,SQL Queries,contextual
+http://localhost/codesphere/computer-science/databases,http://localhost/codesphere/computer-science/nosql,NoSQL Models,contextual
+http://localhost/codesphere/computer-science/sql,http://localhost/codesphere/computer-science/nosql,NoSQL Models and CAP Theorem,contextual
+http://localhost/codesphere/computer-science/nosql,http://localhost/codesphere/computer-science/sql,SQL Normalization,contextual
+http://localhost/codesphere/blog/dsa-roadmap-for-placements,http://localhost/codesphere/dsa/data-structures,Data Structures Hub,contextual
+http://localhost/codesphere/blog/dsa-roadmap-for-placements,http://localhost/codesphere/dsa/algorithms/dynamic-programming,Dynamic Programming,contextual
+http://localhost/codesphere/dsa/data-structures,http://localhost/codesphere/blog/dsa-roadmap-for-placements,DSA Roadmap for Placements,contextual
+http://localhost/codesphere/web-development/javascript,http://localhost/codesphere/web-development/rest-apis,REST APIs Architecture,contextual
+http://localhost/codesphere/dsa/stacks-and-queues,http://localhost/codesphere/dsa/trees/tree-traversal,Tree Traversal,contextual

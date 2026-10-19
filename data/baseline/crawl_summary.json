@@ -1,0 +1,17 @@
+{
+  "total_nodes": 33,
+  "total_unique_edges": 29,
+  "average_in_degree": 0.88,
+  "average_out_degree": 0.88,
+  "reachable_pages_count": 26,
+  "average_click_depth": 2.27,
+  "maximum_click_depth": 5,
+  "orphan_pages_count": 7,
+  "dead_end_pages_count": 17,
+  "weak_in_degree_count": 20,
+  "topic_connectivity_ratio": 0.0,
+  "crawl_meta": {
+    "status": "Baseline Pre-Experiment Crawl",
+    "notes": "Pre-optimization internal link topology exhibiting 7 orphan articles and maximum click depth of 5 hops."
+  }
+}

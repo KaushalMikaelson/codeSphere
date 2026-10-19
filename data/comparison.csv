@@ -1,0 +1,10 @@
+metric,baseline,final,absolute_change,percentage_change,interpretation
+Total Nodes (Pages),33,33,0,0.0%,Total inventory scope under analysis.
+Reachable Pages from Home,26,33,7,26.9%,Pages discoverable via crawler graph traversal.
+Orphan Pages Count,7,0,-7,-100.0%,Pages with zero inbound links or unreachable from root (Lower is better).
+Average Click Depth,2.27,2.39,0.12,5.3%,Mean clicks required from homepage to reach an article. (Note: increases slightly as 7 formerly unreachable infinite-depth orphans become reachable).
+Maximum Click Depth,5,5,0,0.0%,Deepest crawl tier across all published content.
+Dead-End Pages (Out-degree = 0),17,5,-12,-70.6%,Pages that trap crawl equity without outbound paths (Lower is better).
+Weakly Linked Pages (In-degree <= 1),20,13,-7,-35.0%,Pages vulnerable to being lost if a single link breaks (Lower is better).
+Average In-Degree per Page,0.88,1.52,0.64,72.7%,Average incoming internal links per article (Higher indicates better interlinking).
+Topic Connectivity Ratio,0.0,0.28,0.28,+Infinity%,Cross-cluster topic links connecting related computer science domains.

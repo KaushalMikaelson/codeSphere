@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-10-17">
+    <creator>CodeSphere LinkGraphAnalyzer</creator>
+    <description>Baseline Internal Link Topology Graph G=(V,E)</description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="cluster" type="string" />
+      <attribute id="1" title="in_degree" type="integer" />
+      <attribute id="2" title="out_degree" type="integer" />
+      <attribute id="3" title="click_depth" type="integer" />
+      <attribute id="4" title="pagerank" type="double" />
+    </attributes>
+    <nodes>
+      <node id="http://localhost/codesphere" label="Homepage">
+        <attvalues>
+          <attvalue for="0" value="Homepage" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="5" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0.112450" />
+        </attvalues>
+      </node>
+      <node id="http://localhost/codesphere/programming/programming-fundamentals" label="Programming Fundamentals">
+        <attvalues>
+          <attvalue for="0" value="Programming" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.028000" />
+        </attvalues>
+      </node>
+      <node id="http://localhost/codesphere/dsa/data-structures" label="Data Structures">
+        <attvalues>
+          <attvalue for="0" value="DSA" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="0.031200" />
+        </attvalues>
+      </node>
+      <node id="http://localhost/codesphere/blog/binary-tree-vs-binary-search-tree" label="Binary Tree vs BST">
+        <attvalues>
+          <attvalue for="0" value="Roadmaps &amp; Guides" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="-1" />
+          <attvalue for="4" value="0.015152" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="http://localhost/codesphere" target="http://localhost/codesphere/programming/programming-fundamentals" id="0" />
+      <edge source="http://localhost/codesphere" target="http://localhost/codesphere/dsa/data-structures" id="1" />
+    </edges>
+  </graph>
+</gexf>

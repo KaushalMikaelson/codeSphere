@@ -1,0 +1,22 @@
+{
+  "total_nodes": 41,
+  "total_unique_edges": 869,
+  "average_in_degree": 21.2,
+  "average_out_degree": 21.2,
+  "reachable_pages_count": 41,
+  "average_click_depth": 1.2,
+  "maximum_click_depth": 3,
+  "orphan_pages_count": 0,
+  "dead_end_pages_count": 0,
+  "weak_in_degree_count": 2,
+  "topic_connectivity_ratio": 0.523,
+  "crawl_meta": {
+    "start_url": "http://localhost/codesphere",
+    "max_pages_limit": 100,
+    "pages_crawled": 41,
+    "total_visited": 41,
+    "total_edges_found": 1112,
+    "broken_links_count": 0,
+    "crawl_duration_seconds": 33.32
+  }
+}

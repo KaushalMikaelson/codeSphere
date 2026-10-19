@@ -1,0 +1,17 @@
+{
+  "total_nodes": 33,
+  "total_unique_edges": 50,
+  "average_in_degree": 1.52,
+  "average_out_degree": 1.52,
+  "reachable_pages_count": 33,
+  "average_click_depth": 2.39,
+  "maximum_click_depth": 5,
+  "orphan_pages_count": 0,
+  "dead_end_pages_count": 5,
+  "weak_in_degree_count": 13,
+  "topic_connectivity_ratio": 0.28,
+  "crawl_meta": {
+    "status": "Final Post-Experiment Crawl",
+    "notes": "Post-optimization topology with 21 deliberate internal links active. 100% of published inventory reachable (0 orphans), dead ends reduced by 70.6%."
+  }
+}

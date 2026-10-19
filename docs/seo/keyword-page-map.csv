@@ -1,0 +1,16 @@
+keyword,search_intent,target_page,primary_or_secondary,rationale,research_status,source,research_date
+data structures in programming,Informational,/dsa/data-structures/,Primary,High-level curriculum overview targeting students beginning DSA coursework,Verified Plan,Academic Curriculum,2026-10-17
+binary search tree,Informational,/dsa/trees/binary-search-trees/,Primary,Definitive concept guide explaining BST invariants and search mechanics,Verified Plan,Academic Curriculum,2026-10-17
+recursion explained with examples,Informational,/dsa/algorithms/recursion/,Primary,Worked tutorial explaining base cases call stack frames and recurrence relations,Verified Plan,Academic Curriculum,2026-10-17
+dynamic programming for beginners,Informational,/dsa/algorithms/dynamic-programming/,Primary,Intuitive breakdown of memoization vs tabulation with classic interview examples,Verified Plan,Academic Curriculum,2026-10-17
+difference between SQL and NoSQL,Comparative,/computer-science/databases/,Primary,Pillar comparison contrasting ACID tabular models with CAP distributed models,Verified Plan,Academic Curriculum,2026-10-17
+how do REST APIs work,Informational,/web-development/rest-apis/,Primary,Foundational systems guide explaining HTTP verbs statelessness and JSON contracts,Verified Plan,Academic Curriculum,2026-10-17
+binary tree vs binary search tree,Comparative,/blog/binary-tree-vs-binary-search-tree/,Primary,Dedicated interview question comparison contrasting node ordering and time complexities,Verified Plan,Academic Curriculum,2026-10-17
+tree traversal inorder preorder postorder,Informational,/dsa/trees/tree-traversal/,Primary,Step-by-step algorithms and code implementations for depth-first traversals,Verified Plan,Academic Curriculum,2026-10-17
+DSA roadmap for placements,Navigational/Informational,/blog/dsa-roadmap-for-placements/,Primary,Semester-by-semester placement preparation guide for Indian engineering colleges,Verified Plan,Academic Curriculum,2026-10-17
+computer networks basics OSI model,Informational,/computer-science/computer-networks/,Primary,Academic guide covering the 7-layer architecture packet encapsulation and TCP/IP,Verified Plan,Academic Curriculum,2026-10-17
+arrays in data structures,Informational,/dsa/arrays/,Secondary,Covers memory contiguity cache line locality and array pointer arithmetic,Pending Research,Google Keyword Planner Workflow,Pending
+singly linked list implementation,Informational,/dsa/linked-lists/,Secondary,Covers pointer manipulation and reversal algorithms,Pending Research,Google Keyword Planner Workflow,Pending
+object oriented programming pillars,Informational,/programming/object-oriented-programming/,Secondary,Encapsulation abstraction inheritance and polymorphism with Java/C++ examples,Pending Research,Google Keyword Planner Workflow,Pending
+SQL normalization 1NF 2NF 3NF,Informational,/computer-science/sql/,Secondary,Step-by-step database normalization avoiding update and deletion anomalies,Pending Research,Google Keyword Planner Workflow,Pending
+CAP theorem explained,Informational,/computer-science/nosql/,Secondary,Consistency availability and partition tolerance trade-offs in distributed systems,Pending Research,Google Keyword Planner Workflow,Pending

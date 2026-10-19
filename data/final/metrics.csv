@@ -1,0 +1,34 @@
+url,cluster,in_degree,out_degree,click_depth,pagerank,is_orphan,is_dead_end
+http://localhost/codesphere,Homepage,4,5,0,0.089400,False,False
+http://localhost/codesphere/about,General,1,0,1,0.021000,False,True
+http://localhost/codesphere/blog/binary-tree-vs-binary-search-tree,Roadmaps & Guides,1,2,4,0.028500,False,False
+http://localhost/codesphere/blog/dsa-roadmap-for-placements,Roadmaps & Guides,1,2,2,0.034500,False,False
+http://localhost/codesphere/computer-science,Core CS,1,3,1,0.022500,False,False
+http://localhost/codesphere/computer-science/computer-networks,Core CS,2,0,2,0.031200,False,True
+http://localhost/codesphere/computer-science/databases,Core CS,2,2,2,0.036800,False,False
+http://localhost/codesphere/computer-science/nosql,Core CS,2,1,3,0.029400,False,False
+http://localhost/codesphere/computer-science/operating-systems,Core CS,1,1,2,0.035000,False,False
+http://localhost/codesphere/computer-science/sql,Core CS,2,1,3,0.029400,False,False
+http://localhost/codesphere/dsa/algorithms/dynamic-programming,DSA,2,1,3,0.032100,False,False
+http://localhost/codesphere/dsa/algorithms/graph-algorithms,DSA,1,0,2,0.019500,False,True
+http://localhost/codesphere/dsa/algorithms/recursion,DSA,2,1,2,0.033500,False,False
+http://localhost/codesphere/dsa/algorithms/searching-sorting,DSA,1,0,2,0.019500,False,True
+http://localhost/codesphere/dsa/arrays,DSA,1,2,2,0.041000,False,False
+http://localhost/codesphere/dsa/data-structures,DSA,2,5,1,0.041500,False,False
+http://localhost/codesphere/dsa/linked-lists,DSA,2,2,3,0.038500,False,False
+http://localhost/codesphere/dsa/stacks-and-queues,DSA,1,1,4,0.027000,False,False
+http://localhost/codesphere/dsa/trees,DSA,1,3,2,0.026000,False,False
+http://localhost/codesphere/dsa/trees/binary-search-trees,DSA,2,1,3,0.031500,False,False
+http://localhost/codesphere/dsa/trees/binary-trees,DSA,3,2,3,0.039800,False,False
+http://localhost/codesphere/dsa/trees/tree-traversal,DSA,3,1,3,0.038200,False,False
+http://localhost/codesphere/programming/control-flow,Programming,1,1,3,0.025500,False,False
+http://localhost/codesphere/programming/functions,Programming,1,2,4,0.027500,False,False
+http://localhost/codesphere/programming/object-oriented-programming,Programming,1,1,5,0.026500,False,False
+http://localhost/codesphere/programming/programming-fundamentals,Programming,1,1,1,0.026500,False,False
+http://localhost/codesphere/programming/variables-data-types,Programming,1,1,2,0.025500,False,False
+http://localhost/codesphere/web-development,Web Development,1,2,1,0.023500,False,False
+http://localhost/codesphere/web-development/backend-fundamentals,Web Development,1,0,2,0.020500,False,True
+http://localhost/codesphere/web-development/css,Web Development,1,1,3,0.024000,False,False
+http://localhost/codesphere/web-development/html,Web Development,1,2,2,0.039500,False,False
+http://localhost/codesphere/web-development/javascript,Web Development,1,1,4,0.024500,False,False
+http://localhost/codesphere/web-development/rest-apis,Web Development,1,2,3,0.029800,False,False

@@ -1,0 +1,11 @@
+keyword,search_intent,target_page,primary_or_secondary,rationale,research_status,source,research_date
+data structures in programming,Informational (Top-of-Funnel),/dsa/data-structures/,Primary,Learner seeks broad orientation on what data structures exist and when to use them,Verified Plan,Curriculum Review,2026-10-17
+binary search tree,Informational (Conceptual),/dsa/trees/binary-search-trees/,Primary,Student seeks theoretical explanation node diagrams and search algorithms,Verified Plan,Curriculum Review,2026-10-17
+recursion explained with examples,Informational (Tutorial),/dsa/algorithms/recursion/,Primary,User needs concrete step-by-step code execution showing the call stack,Verified Plan,Curriculum Review,2026-10-17
+dynamic programming for beginners,Informational (Problem-Solving),/dsa/algorithms/dynamic-programming/,Primary,Undergraduate struggles with transition from recursion to memoization/tabulation,Verified Plan,Curriculum Review,2026-10-17
+difference between SQL and NoSQL,Comparative (Architectural),/computer-science/databases/,Primary,Candidate preparing for viva or system design interview contrasting SQL vs NoSQL,Verified Plan,Curriculum Review,2026-10-17
+how do REST APIs work,Informational (Practical),/web-development/rest-apis/,Primary,Developer learning client-server integration HTTP status codes and endpoints,Verified Plan,Curriculum Review,2026-10-17
+binary tree vs binary search tree,Comparative (Interview Preparation),/blog/binary-tree-vs-binary-search-tree/,Primary,Direct exam/interview query seeking tabular distinctions and edge cases,Verified Plan,Curriculum Review,2026-10-17
+tree traversal inorder preorder postorder,Informational (Code Reference),/dsa/trees/tree-traversal/,Primary,Student searching for traversal sequence rules and recursive code snippets,Verified Plan,Curriculum Review,2026-10-17
+DSA roadmap for placements,Navigational / Actionable Roadmap,/blog/dsa-roadmap-for-placements/,Primary,Engineering student in India seeking timeline-based checklist for placement drives,Verified Plan,Curriculum Review,2026-10-17
+computer networks basics OSI model,Informational (Academic),/computer-science/computer-networks/,Primary,B.Tech student preparing for semester exam on 7-layer networking model,Verified Plan,Curriculum Review,2026-10-17
